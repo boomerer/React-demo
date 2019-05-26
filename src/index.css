@@ -1,0 +1,75 @@
+
+
+.error-msg{
+    color: red;
+    padding-left: 15px;
+    padding-top:5px;
+}
+
+.am-tab-bar{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+}
+
+.fix-header.am-navbar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.page-content{
+    padding: 45px 5px;
+}
+
+
+
+#chat-page .chat-me .am-list-extra{
+    flex-basis: auto;
+}
+#chat-page .chat-me .am-list-content{
+    padding-right: 15px;
+    text-align:right;
+}
+.stick-footer{
+    z-index: 10;
+    position: absolute;
+    bottom: 0;
+    width: 100%
+}
+
+div .am-tab-bar-bar{
+    height: 60px;
+}
+div .am-tab-bar-tab{
+    height: 60px;
+}
+div .am-tab-bar-tab-icon{
+    height:42px;
+    width: 45px;
+}
+
+.am-tab-bar-bar .am-tab-bar-tab-icon .am-tab-bar-tab-image{
+    width: 40px;
+    height: 40px;
+}
+#chat-page .am-grid-icon{
+    display: none;
+}
+.am-tab-bar-bar .am-tab-bar-tab-title{
+    font-size: 16px;
+    width: 45px;
+    height: 16px;
+   
+}
+.am-tab-bar-tab p.am-tab-bar-tab-title{
+    color: red;
+}
+#chat-page .am-grid-text{
+    margin-top:0
+}
+
+div .am-tab-bar-item{
+    height: auto;
+}
+div .am-tab-bar{height: auto}
